@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @Description:广告信息实体类
- * @Author 罗曼蒂克
+ * @Author yyk
  * @Date Created in 11:42   2018/4/25
  */
 public class Ad_promotion {

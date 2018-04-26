@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @Description:APP版本信息实体类
- * @Author 罗曼蒂克
+ * @Author yyk
  * @Date Created in 11:56   2018/4/25
  */
 public class App_version {

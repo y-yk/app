@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @Description:测试账号表
- * @Author 罗曼蒂克
+ * @Author yyk
  * @Date Created in 11:14   2018/4/25
  */
 public class Dev_user {

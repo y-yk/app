@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 
 /**
  * @Description:APP版本信息实体类控制器
- * @Author 罗曼蒂克
+ * @Author yyk
  * @Date Created in 14:23   2018/4/25
  */
 

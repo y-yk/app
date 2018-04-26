@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @Description:数据字典
- * @Author 罗曼蒂克
+ * @Author yyk
  * @Date Created in 12:26   2018/4/25
  */
 public class Data_dictionary {

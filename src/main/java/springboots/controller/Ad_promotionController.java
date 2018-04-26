@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 
 /**
  * @Description:广告信息控制器
- * @Author 罗曼蒂克
+ * @Author yyk
  * @Date Created in 14:20   2018/4/25
  */
 
